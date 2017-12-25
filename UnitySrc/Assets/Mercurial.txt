@@ -1,0 +1,52 @@
+ABOUT THE ONLINE REPOSITORY
+
+	Etherea1 source-code is being currently hosted by a service 
+	called Assembla.com.
+
+	This is easier to maintain and distribute the source-code because every change 
+	is automatically commited to the online repository and becomes immediately available 
+	to everyone with granted access to the repository.
+
+	The Version Control System of choice was Mercurial, which is similar to SVN and GIT, 
+	but has its own repository format.
+
+	To have access to the Etherea1 source-code updates, you need to install a 
+	Mercurial Client software to your working machine.
+
+INSTALLING THE MERCURIAL CLIENT:
+
+		http://tortoisehg.bitbucket.org
+
+	The Mercurial Client will create some shortcuts in the Windows Explorer 
+	which open with the Right Mouse Button.
+
+DOWNLOADING (CLONING) THE SOURCE-CODE REPOSITORY
+
+	First, you need to get invited to the repository, then you create an user there. It is free.
+	If you have been already invited and have created your free user at Assembla.com:
+
+	Create a new folder with Windows Explorer, lets say C:\Etherea1
+
+	After doing that, select the C:\Etherea1 folder you just created, 
+	right-click on it to open the Windows Explorer shortcuts, 
+	and select TortoiseHG -> Clone...
+
+	In the new dialog that opens, in the "Source" field you put
+
+		https://hg.assembla.com/etherea1-unity3d
+
+	Click "Clone" and wait for the source-code to be downloaded.
+
+	After having the source-code, you can update it through right-clicking 
+	this folder and selecting TortoiseHG -> Synchronize
+
+WORKING WITH THE SOURCE-CODE
+
+	Of course you have full access to change your own local repository, 
+	but you can't change the online repository.
+
+	So, you need to make another local copy where you can make your changes without losing 
+	any of it when you update code from the original repository.
+
+	Just make a simple copy with Windows Explorer to another folder, 
+	and delete the ".hg" folder from the copy, so you have an independent place to make your changes.

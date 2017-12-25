@@ -1,0 +1,38 @@
+	"localization":
+	{
+	"Russian":
+		{
+			"localizeItems":
+			{
+				"remind_me_later_button_text":"Напомнить позже ",
+				"no_thanks":"Нет, спасибо. ",
+				"menu_btn_campaign":"Компания ",
+				"menu_btn_new_game":"Новая игра ",
+				"menu_btn_load_game":"Загрузить игру ",
+				"menu_btn_settings":"Настройки ",
+				"menu_generate_size_x":"Размер по х: ",
+				"menu_generate_size_y":"Размер по y: ",
+				"menu_generate_seed":"Зерно мира: ",
+				"menu_btn_generate":"Создать ",
+				"menu_btn_back":"Назад ",
+			}
+		},
+	"English":
+		{
+			"localizeItems":
+			{
+				"remind_me_later_button_text":"Remind me later ",
+				"no_thanks":"No, thanks ",
+				"menu_btn_campaign":"Campaign ",
+				"email_template":"Describe your question in detail here:\n\n\n\n \n-------------------------------------- \nDo not delete:\n{0} {1} {2}\n\nTime {3} \n ",
+				"menu_btn_new_game":"Новая игра ",
+				"menu_btn_load_game":"Загрузить игру ",
+				"menu_btn_settings":"Настройки ",
+				"menu_generate_size_x":"Size x: ",
+				"menu_generate_size_y":"Size y: ",
+				"menu_generate_seed":"Seed: ",
+				"menu_btn_generate":"Generate ",
+				"menu_btn_back":"Back ",
+			}
+		},
+	}

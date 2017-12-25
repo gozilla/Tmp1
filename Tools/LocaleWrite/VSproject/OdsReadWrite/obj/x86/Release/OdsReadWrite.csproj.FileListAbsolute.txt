@@ -1,0 +1,13 @@
+D:\Work\Shooter\tools\LocalizeTool\VSproject\OdsReadWrite\bin\Release\OdsReadWrite.exe.config
+D:\Work\Shooter\tools\LocalizeTool\VSproject\OdsReadWrite\bin\Release\OdsReadWrite.exe
+D:\Work\Shooter\tools\LocalizeTool\VSproject\OdsReadWrite\bin\Release\OdsReadWrite.pdb
+D:\Work\Shooter\tools\LocalizeTool\VSproject\OdsReadWrite\bin\Release\Ionic.Zip.Reduced.dll
+D:\Work\Shooter\tools\LocalizeTool\VSproject\OdsReadWrite\obj\x86\Release\MainWindow.g.cs
+D:\Work\Shooter\tools\LocalizeTool\VSproject\OdsReadWrite\obj\x86\Release\App.g.cs
+D:\Work\Shooter\tools\LocalizeTool\VSproject\OdsReadWrite\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+D:\Work\Shooter\tools\LocalizeTool\VSproject\OdsReadWrite\obj\x86\Release\OdsReadWrite_MarkupCompile.cache
+D:\Work\Shooter\tools\LocalizeTool\VSproject\OdsReadWrite\obj\x86\Release\OdsReadWrite_MarkupCompile.lref
+D:\Work\Shooter\tools\LocalizeTool\VSproject\OdsReadWrite\obj\x86\Release\MainWindow.baml
+D:\Work\Shooter\tools\LocalizeTool\VSproject\OdsReadWrite\obj\x86\Release\OdsReadWrite.g.resources
+D:\Work\Shooter\tools\LocalizeTool\VSproject\OdsReadWrite\obj\x86\Release\OdsReadWrite.exe
+D:\Work\Shooter\tools\LocalizeTool\VSproject\OdsReadWrite\obj\x86\Release\OdsReadWrite.pdb
